@@ -16,7 +16,16 @@
 
 based on https://docs.bitnami.com/kubernetes/get-started-kubernetes/
 
-## Step 2: Install Helm
+## Step 2: Install Dashboard
+
+* Linux (minikube):
+  
+```
+   minikube dashboard
+```
+
+
+## Step 3: Install Helm
 
 * OSX
 ```
